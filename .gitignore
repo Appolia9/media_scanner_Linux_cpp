@@ -1,0 +1,17 @@
+# Сборка
+build/
+out/
+*.o
+*.exe
+
+# VS Code
+.vscode/
+
+# Временные файлы
+*.swp
+*.swo
+*~
+
+# Результаты работы
+.media_files
+*.json
